@@ -1,0 +1,8 @@
+<tr>
+    <td>${columnName}</td>
+    <td>${dataType}</td>
+    <td>${nullable}</td>
+    <td>${dataDefault}</td>
+    <td>${columnId}</td>
+    <td>${comments}</td>
+</tr>

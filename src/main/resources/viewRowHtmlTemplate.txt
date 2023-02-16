@@ -1,0 +1,5 @@
+<tr>
+    <td>${columnName}</td>
+    <td>${columnId}</td>
+    <td>${comments}</td>
+</tr>
