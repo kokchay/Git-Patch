@@ -118,7 +118,7 @@ public class GenerateSiteMojo extends AbstractMojo implements DdlParser.ParseFil
         }
 
         ddlParser.setParseFileCompleteCallback(this);
-
+// test
         try {
             siteGenerator.copySiteTemplate(sitePath);
 
